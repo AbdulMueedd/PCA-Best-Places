@@ -1,4 +1,4 @@
-# Problem 3 — PCA on Best Places to Live
+#PCA on Best Places to Live
 
 Applies PCA to the Places Rated Almanac dataset (329 US cities rated on 9 livability factors) to identify patterns and outliers.
 
